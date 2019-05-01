@@ -1,4 +1,7 @@
 # Number-recognition
+
+테스트 이미지 폴더
+
 jupyter notebook 으로 작성한 숫자인식 프로그램
 
 주제 : 랜덤한 위치와 랜덤한 크기의 나오는 200x200 pixels의 숫자 이미지를 분류
