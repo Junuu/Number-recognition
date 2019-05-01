@@ -1,6 +1,6 @@
 # Number-recognition
 
-테스트 이미지 폴더
+숫자인식 테스트이미지(00~70)의 숫자로 테스트해보면 숫자가 나오게 된다.
 
 jupyter notebook 으로 작성한 숫자인식 프로그램
 
